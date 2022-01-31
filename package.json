@@ -1,0 +1,16 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "",
+  "default": "script.js",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Lefkos Papapetrou",
+  "license": "ISC"
+}
